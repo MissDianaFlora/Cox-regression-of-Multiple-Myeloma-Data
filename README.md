@@ -6,15 +6,15 @@ This project centers on analyzing longitudinal data from patients diagnosed with
 Multiple Myeloma is a chronic and progressive hematological cancer with complex treatment needs. Patients in the AMPATH program have undergone numerous clinical encounters, each documenting critical information on demographics, diagnostics, treatment protocols, and symptom evolution. 
 
 This analysis aims to: -
-** extract actionable insights on survival rates, 
-** highlight key clinical indicators, and 
-** visualize trends to support treatment planning and informed clinical decision-making.
+1.  extract actionable insights on survival rates,
+2.  highlight key clinical indicators, and
+3.  Visualize trends to support treatment planning and informed clinical decision-making.
 
 The project includes:-
-## comprehensive data cleaning,
-## feature engineering,
-## and survival analysis, with a particular focus on CRAB criteria-based indicators (elevated calcium, renal dysfunction, anemia, and bone involvement).
-## Additionally, a dynamic dashboard will present key findings, facilitating an intuitive review of MM trends, symptom progression, and survival metrics. 
+1.  comprehensive data cleaning,
+2.  feature engineering,
+3.  and survival analysis, with a particular focus on CRAB criteria-based indicators (elevated calcium, renal dysfunction, anemia, and bone involvement).
+4.  Additionally, a dynamic dashboard will present key findings, facilitating an intuitive review of MM trends, symptom progression, and survival metrics. 
 
 By examining these longitudinal data patterns, this project aims to support clinicians, researchers, and stakeholders in optimizing MM care strategies based on real-world patient outcomes.
 
