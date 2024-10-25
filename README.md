@@ -1,4 +1,4 @@
-# Project Title : Longitudinal Multiple Myeloma Patient Data Analysis for AMPATH MULTIPLE MYELOMA PATIENTS
+# Project Title : Longitudinal Multiple Myeloma Patient Data Analysis for AMPATH Multiple Myeloma Patients
 
 # Project Description
 This project centers on analyzing longitudinal data from patients diagnosed with Multiple Myeloma (MM) who receive care, treatment, and follow-up at Moi Teaching and Referral Hospital (MTRH) under the AMPATH Multiple Myeloma Program, which has been operational since 2009. The AMPATH (Academic Model Providing Access to Healthcare) MM program's extensive dataset provides a unique opportunity to track MM progression, treatment patterns, and survival outcomes over a prolonged period, offering valuable insights for clinical and research purposes.
