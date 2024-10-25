@@ -6,9 +6,9 @@ This project centers on analyzing longitudinal data from patients diagnosed with
 Multiple Myeloma is a chronic and progressive hematological cancer with complex treatment needs. Patients in the AMPATH program have undergone numerous clinical encounters, each documenting critical information on demographics, diagnostics, treatment protocols, and symptom evolution. 
 
 This analysis aims to: -
-## extract actionable insights on survival rates, 
-## highlight key clinical indicators, and 
-## visualize trends to support treatment planning and informed clinical decision-making.
+** extract actionable insights on survival rates, 
+** highlight key clinical indicators, and 
+** visualize trends to support treatment planning and informed clinical decision-making.
 
 The project includes:-
 ## comprehensive data cleaning,
