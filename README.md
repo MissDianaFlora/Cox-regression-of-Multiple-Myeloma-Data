@@ -19,39 +19,39 @@ The project includes:-
 By examining these longitudinal data patterns, this project aims to support clinicians, researchers, and stakeholders in optimizing MM care strategies based on real-world patient outcomes.
 
 # Data/Statistical  Analysis Objectives
-1. ## Data Cleaning and Transformation: Clean and format raw longitudinal patient data, addressing inconsistencies, missing values, and duplicate records.
-2. ## Descriptive Analysis: Describe patient demographics, diagnostic dates, and treatment encounters to characterize the patient cohort.
-3. ## Feature Engineering: Create meaningful variables to capture symptoms, treatment details, and disease progression.
-4. ## CRAB Criteria Assessment: Develop specific variables for CRAB (Calcium, Renal, Anemia, Bone) diagnostic features.
-5. ## Survival Analysis: Examine survival rates based on clinical and diagnostic indicators.
-6. ## Dashboard Creation: Build a dynamic dashboard to visualize patient statistics, key symptoms, and treatment patterns over time.
+1. Data Cleaning and Transformation: Clean and format raw longitudinal patient data, addressing inconsistencies, missing values, and duplicate records.
+2. escriptive Analysis: Describe patient demographics, diagnostic dates, and treatment encounters to characterize the patient cohort.
+3. Feature Engineering: Create meaningful variables to capture symptoms, treatment details, and disease progression.
+4. CRAB Criteria Assessment: Develop specific variables for CRAB (Calcium, Renal, Anemia, Bone) diagnostic features.
+5. Survival Analysis: Examine survival rates based on clinical and diagnostic indicators.
+6. Dashboard Creation: Build a dynamic dashboard to visualize patient statistics, key symptoms, and treatment patterns over time.
 
 # Analysis Plan
-1. ## Data Import: Import raw Multiple Myeloma (MM) data in CSV format.
-2. ## Data Cleaning: Correct date formats, handle missing values, and ensure uniformity in categorical fields.
-3. ## Exploratory Data Analysis (EDA): Conduct initial analysis to understand patient demographics, diagnostic distribution, and encounter patterns.
-4. ## Feature Engineering: Create new variables, such as survival status, symptom presence, and CRAB features.
-5. ## Descriptive Statistics: Summarize the cohort's clinical indicators, including symptoms, age distribution, CRAB feature prevalence, and survival rates.
+1. Data Import: Import raw Multiple Myeloma (MM) data in CSV format.
+2. Data Cleaning: Correct date formats, handle missing values, and ensure uniformity in categorical fields.
+3. Exploratory Data Analysis (EDA): Conduct initial analysis to understand patient demographics, diagnostic distribution, and encounter patterns.
+4. Feature Engineering: Create new variables, such as survival status, symptom presence, and CRAB features.
+5. Descriptive Statistics: Summarize the cohort's clinical indicators, including symptoms, age distribution, CRAB feature prevalence, and survival rates.
 
 # Key Variables
-a) ## Patient Demographics: Date of birth, age, gender, and hospital ID.
-b) ## Encounter Data: Encounter dates, diagnosis date, encounter type (initial/return).
-c) ## CRAB Diagnostic Features: Indicators for calcium level, renal function (creatinine), anemia (hemoglobin), and bone involvement.
-d) ## Survival Status: Alive, lost to follow-up (LTFU), or deceased.
-e) ## Chief Complaints and Symptoms: Various symptoms categorized by pain site, bleeding site, and swelling site.
+a) Patient Demographics: Date of birth, age, gender, and hospital ID.
+b) Encounter Data: Encounter dates, diagnosis date, encounter type (initial/return).
+c) CRAB Diagnostic Features: Indicators for calcium level, renal function (creatinine), anemia (hemoglobin), and bone involvement.
+d) Survival Status: Alive, lost to follow-up (LTFU), or deceased.
+e) Chief Complaints and Symptoms: Various symptoms categorized by pain site, bleeding site, and swelling site.
 
 # Expected Outcomes
-- ## Survival rates
-- ## gender ratio
-- ## Remission %
+- Survival rates
+- gender ratio
+- Remission %
 
 # Exploratory Data Analysis (EDA) Procedures
-1. ## Date Formatting and Validation: Convert various date fields to date format and check for inconsistencies.
-2. ## Missing Data Handling: Replace missing values in dates and categorical fields, including diagnosis and encounter dates.
-3. ## Duplicate Checking: Identify and address duplicate encounters within patients.
-4. ## Symptom and Pain Site Categorization: Recode symptoms and complaints into standardized categories (e.g., bleeding site, pain location).
+1. Date Formatting and Validation: Convert various date fields to date format and check for inconsistencies.
+2. Missing Data Handling: Replace missing values in dates and categorical fields, including diagnosis and encounter dates.
+3. Duplicate Checking: Identify and address duplicate encounters within patients.
+4. Symptom and Pain Site Categorization: Recode symptoms and complaints into standardized categories (e.g., bleeding site, pain location).
 
 # Statistical Analyses
-1. ## Descriptive Statistics: Summarize patient ages, encounter counts, and CRAB feature prevalence.
-2. ## Frequency Analysis: For categorical variables like chief complaints, pain sites, and symptoms.
-3. ## Survival Analysis: Conduct survival analysis based on key clinical indicators and demographics.
+1. Descriptive Statistics: Summarize patient ages, encounter counts, and CRAB feature prevalence.
+2. Frequency Analysis: For categorical variables like chief complaints, pain sites, and symptoms.
+3. Survival Analysis: Conduct survival analysis based on key clinical indicators and demographics.
