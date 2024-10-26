@@ -34,11 +34,11 @@ By examining these longitudinal data patterns, this project aims to support clin
 5. Descriptive Statistics: Summarize the cohort's clinical indicators, including symptoms, age distribution, CRAB feature prevalence, and survival rates.
 
 # Key Variables
-a.)  Patient Demographics: Date of birth, age, gender, and hospital ID.
-b.)  Encounter Data: Encounter dates, diagnosis date, encounter type (initial/return).
-c). CRAB Diagnostic Features: Indicators for calcium level, renal function (creatinine), anemia (hemoglobin), and bone involvement.
-d). Survival Status: Alive, lost to follow-up (LTFU), or deceased.
-e). Chief Complaints and Symptoms: Various symptoms categorized by pain site, bleeding site, and swelling site.
+- Patient Demographics: Date of birth, age, gender, and hospital ID.
+- Encounter Data: Encounter dates, diagnosis date, encounter type (initial/return).
+- CRAB Diagnostic Features: Indicators for calcium level, renal function (creatinine), anemia (hemoglobin), and bone involvement.
+- Survival Status: Alive, lost to follow-up (LTFU), or deceased.
+- Chief Complaints and Symptoms: Various symptoms categorized by pain site, bleeding site, and swelling site.
 
 # Expected Outcomes
 - Survival rates
